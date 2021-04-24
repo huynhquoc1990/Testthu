@@ -1,3 +1,2 @@
-print('helo')
-print('123')
-print('huynh tan quoc')
+def In(name):
+    print('Hi',name)
